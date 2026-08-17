@@ -1,4 +1,4 @@
-# 🔬 ResearchMind
+# 🧠 ResearchMind
 
 ### Multi Agent AI Research Pipeline
 
@@ -22,7 +22,7 @@ Asking a single large language model to just answer the question does not fix th
 
 ResearchMind's goal is to close that gap using an agentic workflow instead of one big prompt. Each agent is responsible for exactly one stage of the research process and hands its output to the next, mirroring how a person would actually research something: search, read, write, then review before trusting the result.
 
-## 🧠 The Agentic Pipeline
+## 🔬 The Agentic Pipeline
 
 ```mermaid
 graph LR

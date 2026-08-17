@@ -11,6 +11,7 @@
 
 ResearchMind is a multi agent system where four specialized AI agents work together in sequence, searching the live web, reading the strongest source in depth, drafting a structured report, and critically reviewing it, so that a single research question turns into a complete, sourced, self reviewed report.
 
+> 🚀 **Try it live**: [chhavi-mittal-research-mind-ai.streamlit.app](https://chhavi-mittal-research-mind-ai.streamlit.app/)
 ---
 
 ## 📌 Problem Statement
